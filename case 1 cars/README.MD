@@ -1,0 +1,1 @@
+Hey everyone! 👋 So, I’ve been trying out some cool stuff to practice my SQL skills, and I found this awesome challenge called SteelData. The challenges start off easy for beginners and get a bit trickier as you go. Today, I want to chat about SQL Challenge 1, which is all about ‘Steve’s Car Showroom.’ 🚗💻 Let’s break it down together!
