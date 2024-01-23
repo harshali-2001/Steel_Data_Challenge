@@ -7,8 +7,8 @@ This repository contains my solutions and analysis for the Metew Steel Data Chal
 ## Challenges
 
 1. Challenge 1: [Cars Showroom](https://github.com/harshali-2001/Steel_Data_Challenge/blob/main/case%201%20cars/README.MD) 🚗
-2. Challenge 2: [Esports Tournaments]() 🎮
-3. Challenge 3: [The General Store]() 🛒
+2. Challenge 2: [Esports Tournaments](https://github.com/harshali-2001/Steel_Data_Challenge/tree/main/case%202%20sports) 🎮
+3. Challenge 3: [The General Store](https://github.com/harshali-2001/Steel_Data_Challenge/tree/main/case%203%20store) 🛒
 4. Challenge 4: [Finance Analysis]() 💹💴💰
 5. Challenge 5: [Pub Pricing analysis]() 🍷🍺🍻
 6. Challenge 6: [Brief description]() 🤷‍♂️
