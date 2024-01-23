@@ -1,6 +1,6 @@
 readme for challenge 2
 
-
+![App Screenshot](https://github.com/harshali-2001/Steel_Data_Challenge/blob/main/case%203%20store/sql3.jpg)
 
 ### 1. What is the total amount each customer spent at the restaurant?
 
